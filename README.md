@@ -1,16 +1,14 @@
 # batch-jobs-R
 Batch Jobs in R
 
-### 1. Simple Batch Process
+### 1. Simple Batch Process [Link](./00_simple_batch_process/simple_batch_processing.Rmd)
 
-#### Using `Rscript`
+##### Using `Rscript` 
 
-#### Using `R CMD BATCH`
+##### Using `R CMD BATCH`
 
-#### Using magic number(`#!`)
+##### Using magic number(`#!`)
 
-### 2. Batch Processing using `batchtools`
+### 2. Batch Jobs using `batchtools` [Link](./slide/BatchJobsR-xwMooc.pdf)
 
-#### Ex 1. Approximation of \phi
 
-#### Ex 2. Machine Learning using `iris` dataset
