@@ -1,0 +1,32 @@
+---
+title: "Simple Batch Processing"
+output:
+  html_document:
+    df_print: paged
+---
+
+#### posting from https://stackoverflow.com/questions/18306362/run-r-script-from-command-line
+
+We have a file, called `hello.r`, it has a `chmod` of 755,
+```{r}
+sayHello <- function(){
+  print('Hello World')
+}
+```
+
+We would like to run this via command line.
+
+### Using `Rscript`
+If you want the output to print to the terminal,
+
+```
+Rscript test.r
+```
+
+
+### Using `R CMD BATCH`
+
+
+
+
+
